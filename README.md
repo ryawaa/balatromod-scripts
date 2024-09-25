@@ -1,6 +1,6 @@
 # balatromod-scripts
 
-This repository contains scripts that automatically installs or removes the Lovely Injector + Steamodded for Balatro.
+This repository contains scripts that automatically installs or removes the Lovely Injector + Steamodded for Balatro. (MacOS Only)
 
 > [!WARNING]
 > This script is not yet working as intended. See [issue #1](https://github.com/rynmy/balatromod-scripts/issues/1) for more information.
