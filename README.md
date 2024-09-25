@@ -10,13 +10,13 @@ This repository contains scripts that automatically installs or removes the Love
 ### Installation
 
 ```bash
-curl -s https://raw.githubusercontent.com/lovely-injector/balatromod-scripts/main/install.sh | bash
+curl -s https://github.com/rynmy/balatromod-scripts/raw/refs/heads/main/install.sh | bash
 ```
 
 ### Uninstall
 
 ```bash
-curl -s https://raw.githubusercontent.com/lovely-injector/balatromod-scripts/main/uninstall.sh | bash
+curl -s https://github.com/rynmy/balatromod-scripts/raw/refs/heads/main/uninstall.sh | bash
 ```
 
 ## Credits
